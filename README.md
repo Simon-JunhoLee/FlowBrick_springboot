@@ -27,6 +27,11 @@
 
 <br>
 
+## 프로젝트 기간
+#### 2024.02.01 ~ 2024.02.28
+
+<br>
+
 ## 팀원 및 담 기능
 
 ### 이준호 [@Simon-JunhoLee](https://github.com/Simon-JunhoLee)
